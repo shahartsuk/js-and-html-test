@@ -1,0 +1,6 @@
+Flex direction allow  you arrange your items in the container they are in 
+flex-direction: column; row (reverse)
+justify-content: center; left; right; space around; space evenly; space between;
+use it to align items to the main axis
+align-item: center; left; right; space around; space evenly; space between;
+use to align items to the secondary axis

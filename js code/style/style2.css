@@ -1,0 +1,30 @@
+.container-row {
+  display: flex;
+  flex-direction: row;
+}
+.main-row {
+  background-color: aquamarine;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+.scondary-row {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+.container-column {
+  display: flex;
+  flex-direction: column;
+}
+.main-column {
+  background-color: aquamarine;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+.scondary-column {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}

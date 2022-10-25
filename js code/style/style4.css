@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: aqua;
+  padding: 5px;
+  border-radius: 4px;
+}
+table {
+  width: 60%;
+  table-layout: fixed;
+  white-space: nowrap;
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+tr,
+td,
+th {
+  align-items: center;
+  white-space: nowrap;
+  border: 1px solid;
+  border-color: black;
+  border-collapse: collapse;
+  text-align: center;
+  overflow-x: auto;
+}
+th {
+  background: gray;
+}
+.dogimgs {
+  display: flex;
+  margin-top: 100px;
+}
+.catimgs {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
